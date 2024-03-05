@@ -1,5 +1,6 @@
 
-![Rules and Reminders For Online Classes (700 x 350 px) (3)](https://github.com/bristeele99/bristeele99/assets/148241566/60ce7cbb-ec0c-4f2b-8866-98ca2d29e344)
+![Rules and Reminders For Online Classes (700 x 350 px) (5)](https://github.com/bristeele99/bristeele99/assets/148241566/7c98d2f9-740a-460f-9c6e-61e853b57eaf)
+
 
 
 ## Brianna Anulo
