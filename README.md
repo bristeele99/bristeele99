@@ -1,5 +1,8 @@
 
+![Rules and Reminders For Online Classes](https://github.com/bristeele99/bristeele99/assets/148241566/114b658a-f0eb-4e83-af31-fb6ed9931b1e)
+
 ## Brianna Anulo
+
 I am an emerging web developer currently residing in the Capital Region/DMV area. I am a builder at heart and enjoy every part of the full-stack building process.  
 
 [![My Skills](https://skillicons.dev/icons?i=react&perline=1)](https://skillicons.dev)
