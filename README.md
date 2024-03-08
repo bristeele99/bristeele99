@@ -16,7 +16,7 @@ As an emerging web developer currently residing in the Capital Region/DMV area. 
 
 ## Examples of Work
 
-https://bamweather.netlify.app/
+https://bamweather.netlify.app/ <br/>
 https://restaurant-app-bamjr.netlify.app/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bristeele99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bristeele99/)  
