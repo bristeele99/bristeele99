@@ -1,8 +1,3 @@
-
-![Rules and Reminders For Online Classes (700 x 350 px) (5)](https://github.com/bristeele99/bristeele99/assets/148241566/7c98d2f9-740a-460f-9c6e-61e853b57eaf)
-
-
-
 ## Brianna Anulo
 
 As an emerging web developer currently residing in the Capital Region/DMV area. I am a builder at heart and enjoy every part of the full-stack building process.   
