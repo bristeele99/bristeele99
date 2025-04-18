@@ -17,6 +17,19 @@ Always building. Always learning. Always secure.
  
 
 ## Skills and Experience
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat&logo=comptia)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=flat&logo=tryhackme)
+![Splunk](https://img.shields.io/badge/Splunk-Beginner-blue?style=flat&logo=splunk)
+![Burp Suite](https://img.shields.io/badge/Burp--Suite-Used-lightgrey?style=flat&logo=burpsuite)
+![Linux](https://img.shields.io/badge/Linux-Comfortable-informational?style=flat&logo=linux)
+
+![AD](https://img.shields.io/badge/Active--Directory-User%20Management-blue?style=flat&logo=microsoft)
+![GPO](https://img.shields.io/badge/Group%20Policy-Configurable-brightgreen?style=flat&logo=windows)
+![RDP](https://img.shields.io/badge/RDP-Enabled-informational?style=flat&logo=windows)
+![PowerShell](https://img.shields.io/badge/PowerShell-Basic-blue?style=flat&logo=powershell)
+![Windows Server](https://img.shields.io/badge/Windows--Server-2022-informational?style=flat&logo=windows)
+![Networking](https://img.shields.io/badge/Networking-Basics-success?style=flat&logo=ethernet)
+
 [![My Skills](https://skillicons.dev/icons?i=react&perline=1)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js&perline=1)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css&perline=1)](https://skillicons.dev)
