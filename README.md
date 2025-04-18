@@ -25,7 +25,7 @@ Always building. Always learning. Always secure.
 
 ## Examples of Work
 - [https://github.com/bristeele99/tier1-helpdesk-project](https://github.com/bristeele99/tier1-helpdesk-project/blob/main/README.md)
-- https://briannasteeleresume.netlify.app/
+- [https://briannasteeleportfolio.netlify.app](https://briannasteeleportfolio.netlify.app)
 - https://bamweather.netlify.app/ <br/>
 - https://restaurant-app-bamjr.netlify.app/
 
