@@ -1,39 +1,24 @@
 
 ### Hi, I'm Brianna Steele 
-— an emerging cybersecurity and IT support professional with a foundation in full-stack web development. I'm currently based in the Capital Region/DMV area and passionate about building, breaking, and securing systems.
+I'm passionate for cybersecurity and IT support. I'm currently based in the Capital Region/DMV. I love tackling complex challenges through hands-on projects. Please feel free to check them out and see the work I've put into enhancing security operations and processes!
 
-🛠️ I started as a web developer, where I learned to love the problem-solving process across front-end and back-end stacks. Now, I'm combining that builder mindset with my pursuit of cybersecurity and technical support by developing hands-on labs in Azure, simulating real-world Tier 1 Help Desk and SOC environments.
+## 🔐 IT Support Projects
+- **[Azure-based Tier 1 Help Desk Lab](https://github.com/bristeele99/tier1-helpdesk-project/blob/main/README.md)**
 
-🔐 My recent projects include:
-- A fully documented Azure-based Tier 1 Help Desk lab with AD, GPOs, and simulated tickets
-- Security-focused scripting and troubleshooting in PowerShell and Windows Server
-- Continuous learning in network fundamentals, threat response, and endpoint protection
+## ⚠️ Vulnerability Management Projects
 
-Always building. Always learning. Always secure.
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-📫 Let’s connect:  
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me 
 🔗 [LinkedIn](https://www.linkedin.com/in/brianna-anulo)  
 💻 [GitHub](https://github.com/bristeele99)
- 
-
-## Skills and Experience
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat&logo=comptia)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=flat&logo=tryhackme)
-![Splunk](https://img.shields.io/badge/Splunk-Beginner-blue?style=flat&logo=splunk)
-![Burp Suite](https://img.shields.io/badge/Burp--Suite-Used-lightgrey?style=flat&logo=burpsuite)
-![Linux](https://img.shields.io/badge/Linux-Comfortable-informational?style=flat&logo=linux)
-
-![AD](https://img.shields.io/badge/Active--Directory-User%20Management-blue?style=flat&logo=microsoft)
-![GPO](https://img.shields.io/badge/Group%20Policy-Configurable-brightgreen?style=flat&logo=windows)
-![RDP](https://img.shields.io/badge/RDP-Enabled-informational?style=flat&logo=windows)
-![PowerShell](https://img.shields.io/badge/PowerShell-Basic-blue?style=flat&logo=powershell)
-![Windows Server](https://img.shields.io/badge/Windows--Server-2022-informational?style=flat&logo=windows)
-![Networking](https://img.shields.io/badge/Networking-Basics-success?style=flat&logo=ethernet)
-
-[![My Skills](https://skillicons.dev/icons?i=react&perline=1)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js&perline=1)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css&perline=1)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html&perline=1)](https://skillicons.dev)
 
 
 ## Examples of Work
