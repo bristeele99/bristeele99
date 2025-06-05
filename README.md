@@ -9,7 +9,7 @@ I'm passionate for cybersecurity and IT support. I'm currently based in the Capi
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bristeele99/threat-hunting-scenario-tor)**
 
 ## 🔐 IT Support Projects
 - **[Azure-based Tier 1 Help Desk Lab](https://github.com/bristeele99/tier1-helpdesk-project/blob/main/README.md)**
